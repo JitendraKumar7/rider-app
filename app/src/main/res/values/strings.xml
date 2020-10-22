@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">RCH Rider</string>
+
+    <string name="eta">ETA</string>
+    <string name="total">Total</string>
+    <string name="order_id">Order Id</string>
+    <string name="progress">Progress</string>
+    <string name="on_the_way">On the way</string>
+    <string name="no_order">No Order Found</string>
+    <string name="order_placed">Order Placed</string>
+    <string name="project_status_ready">ready</string>
+    <string name="project_status_received">received</string>
+    <string name="project_status_completed">completed</string>
+    <string name="project_status_delivered">delivered</string>
+    <string name="internet_not_available">Internet not available</string>
+    <string name="order_place_tagline">We have received your order</string>
+    <string name="no_order_tagline">Currently you did not make any order</string>
+
+    <string name="cod">Cash On Delivery (COD)</string>
+    <string name="process_order">Order Processing</string>
+    <string name="received_successfully">Received Successfully</string>
+    <string name="success_tagline">Customer received their meal</string>
+    <string name="on_the_Way_tagline">Riders on its way to deliver</string>
+    <string name="process_order_tagline">We are processing your order</string>
+
+
+</resources>
